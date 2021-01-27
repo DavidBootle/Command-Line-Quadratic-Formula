@@ -4,10 +4,11 @@
 
 import cmath
 from fractions import Fraction
+import sys
 
-a = float(input('A: '))
-b = float(input('B: '))
-c = float(input('C: '))
+a = float(sys.argv[1])
+b = float(sys.argv[2])
+c = float(sys.argv[3])
 
 # calculate the discriminant (the area inside the square root)
 d = (b**2) - (4*a*c)
