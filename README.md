@@ -1,5 +1,5 @@
 # Command Line Quadratic Formula
- Allows you to calculate solutions to quadratics from the command line. Could be useful, I don't know. Program is for Windows 10, but may work on other versions of Windows.
+ Allows you to calculate solutions to quadratics from the command line. Could be useful, I don't know. Program is for Windows 10, but may work on other versions of Windows. Feel free to build it yourself for other operating systems.
  
  ## Installation
  Download the file `quadform.exe` in the dist directory. This is the exe you will use to run the command. Place it in the directory you are going to use it in or add it's directory to path to access it globally.
